@@ -1,0 +1,6 @@
+shapely
+pyshp
+folium
+branca
+requests
+us
